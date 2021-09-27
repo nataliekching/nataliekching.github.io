@@ -1,8 +1,4 @@
-# nataliekching.github.io
 <html>
-	<head>
-		<title>Natalie's Website</title>
-	</head>
 	<body>
 		<font face="verdana">
 		<main>
