@@ -7,3 +7,5 @@
 				<img src="dogs.gif" width="600" height="auto">
 			</center>
 		</main>
+	</body>
+</html>
