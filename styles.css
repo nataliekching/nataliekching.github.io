@@ -1,0 +1,90 @@
+.head {
+	position:absolute;
+  top:35%;
+  left:40%;
+  width:250px;
+  height:260px;
+  background:#f6c6af;
+  border-radius:50%;
+}
+.hair {
+  background:black;
+  position:absolute;
+  top: 29%;
+  left: 38%;
+  width: 300px;
+  height: 400px;
+  border-radius: 100px 100px 50px 50px;
+}
+.rightear {
+  position:absolute;
+  top:45%;
+  left:55%;
+  width:50px;
+  height:100px;
+  background:#edba9d;
+  border-radius:50%;
+}
+.leftear {
+  position:absolute;
+  top:45%;
+  left:38%;
+  width:50px;
+  height:100px;
+  background:#edba9d;
+  border-radius:50%;
+}
+.nose {
+  position:absolute;
+  top:55%;
+  left:47%;
+  width:65px;
+  height:20px;
+  background:#edba9d;
+  border-radius:50%;
+}
+.mouth {
+  position:absolute;
+  top:65%;
+  left:47%;
+  width:25px;
+  height:25px;
+  background:#ff8886;
+  border-radius:50%;
+}
+.righteye {
+  position:absolute;
+  top:48%;
+  left:52%;
+  width:20px;
+  height:20px;
+  background:#1e140a;
+  border-radius:50%;
+}
+.lefteye {
+  position:absolute;
+  top:48%;
+  left:45%;
+  width:20px;
+  height:20px;
+  background:#1e140a;
+  border-radius:50%;
+}
+.righteyebrow {
+  position:absolute;
+  top:45%;
+  left:52%;
+  width:35px;
+  height:10px;
+  background:black;
+  border-radius:50%;
+}
+.lefteyebrow {
+  position:absolute;
+  top:45%;
+  left:44%;
+  width:35px;
+  height:10px;
+  background:black;
+  border-radius:50%;
+}
