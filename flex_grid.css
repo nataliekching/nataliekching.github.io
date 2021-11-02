@@ -1,0 +1,32 @@
+body {
+	background-image: url("2641057.gif");
+}
+h2 {
+	color: white;
+	font-family: Garamond, serif;
+}
+h3 {
+    color: black;
+    font-family: Garamond, serif;
+    text-align: center;
+}
+.flex-container {
+	display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 60px;
+    height: 300px;
+    width: 800px%;
+    border-style: dotted solid;
+    border-width: 2px;
+    border-color: black;
+    font-family: Garamond, serif;
+    padding: 50px;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
