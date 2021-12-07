@@ -2,7 +2,7 @@ const btn = document.getElementById("btn");
 
 btn.addEventListener("click", ()=>{
 
-    if(btn.innerText === "The Meaning in the Massage"){
+    if(btn.innerText === "The Medium is the Massage"){
         btn.innerText = "Societies have always been shaped more by the nature of the media by which men communicate than by the content of the communication.";
     }else{
         btn.innerText = "The alphabet, for instance, is a technology that is absorbed by the very young child in a completely unconcious manner, by osmosis so to speak";
