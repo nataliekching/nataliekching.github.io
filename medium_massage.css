@@ -1,0 +1,25 @@
+body {
+	background-image: url("Wakanda-scaled.webp");
+  display:grid;
+  font-family: Spartan;
+}
+button {
+  background-color: white;
+  color: black;
+  padding: 1px;
+  margin: 2vh;
+  border: solid 3px black;
+  border-radius: 50px;
+  width: 100%;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
