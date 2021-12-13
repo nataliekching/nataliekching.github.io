@@ -1,0 +1,27 @@
+body {
+	background: linear-gradient(to right, #FFBCF8, #DF3EDF, #E8EB32);
+	color: white;
+	text-align: center;
+	font-family: 'Comfortaa';
+}
+img{
+	width: 100px;
+	height: auto;
+}
+.right_button{
+	position: fixed;
+	bottom: 40%;
+	right: 100px;
+}
+.left_button{
+	position: fixed;
+	bottom: 40%;
+	left: 100px;
+}
+.inspiration{
+	width: 400px;
+	height: auto;
+}
+.site_map{
+	width: 800px;
+}
